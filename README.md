@@ -2,6 +2,9 @@
 This reposiory contains codes for extracting and linking entities with or without Language Models (BERT and GPT-2) and even sentiment analysis with those LMS.
 We provided a code "REL_Graph" that extracts relation between two entities and plot them into a Graph. This code tries to replicate the general idea of the paper "Language Models are Open Knowledge Graphs" but in a simple way, relying on Python,SpaCy and networkx for dataframe.
 
+![image](https://user-images.githubusercontent.com/92401209/152688654-f9bcc7d0-9035-4484-9859-6e2da5b0676d.png)
+
+
 ## Papers repositories
 The repositories of the main papers "Language Models are Open Knowledge Graphs", OpenNRE and the other repos that helps implementing them were forked into my account.
 ### SpaCy
