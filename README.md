@@ -1,5 +1,5 @@
 # comparison_REL
-This reposiory contains codes sentiment analysis, extracting and linking entities with or without Language Models (BERT and GPT-2)
+This reposiory contains codes for extracting and linking entities with or without Language Models (BERT and GPT-2) and even sentiment analysis with those LMS.
 We provided a code "REL_Graph" that extracts relation between two entities and plot them into a Graph. This code tries to replicate the general idea of the paper "Language Models are Open Knowledge Graphs" but in a simple way, relying on Python,SpaCy and networkx for dataframe.
 
 ## Papers repositories
