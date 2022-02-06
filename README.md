@@ -12,6 +12,8 @@ spaCy is a free open-source library for Natural Language Processing in Python. I
 
 ### BERT_GPT2
 
+For sentiment analysis and entity linking codes are provided
+
 ![image](https://user-images.githubusercontent.com/92401209/152657447-8d32ddbf-95c4-46f5-83f7-c570fd0e6172.png)  ![image](https://user-images.githubusercontent.com/92401209/152657482-eaa1aa7a-2be0-435e-827e-49924a8921f8.png)
 
 ### REL_Graph
